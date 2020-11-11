@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Phillip Frederick's Website
+description: Personal website of coding projects and assignments
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
